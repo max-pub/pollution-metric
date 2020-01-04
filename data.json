@@ -1,0 +1,1370 @@
+{
+    "China": {
+        "country": "China",
+        "pollution": 12700,
+        "population": 1399520000,
+        "forest": 2083210,
+        "area": 9326410,
+        "gdp": 14216503
+    },
+    "United States": {
+        "country": "United States",
+        "pollution": 6570,
+        "population": 330054000,
+        "forest": 3100950,
+        "area": 9147593,
+        "gdp": 21344667
+    },
+    "India": {
+        "country": "India",
+        "pollution": 2870,
+        "population": 1353440000,
+        "forest": 802088,
+        "area": 2973190,
+        "gdp": 2971996
+    },
+    "Russia": {
+        "country": "Russia",
+        "pollution": 2670,
+        "population": 146793744,
+        "forest": 8149300,
+        "area": 16377742,
+        "gdp": 1610381
+    },
+    "Japan": {
+        "country": "Japan",
+        "pollution": 1310,
+        "population": 126150000,
+        "forest": 253203,
+        "area": 364543,
+        "gdp": 5176205
+    },
+    "Brazil": {
+        "country": "Brazil",
+        "pollution": 1050,
+        "population": 210573000,
+        "forest": 4776980,
+        "area": 8460415,
+        "gdp": 1960190
+    },
+    "Germany": {
+        "country": "Germany",
+        "pollution": 918,
+        "population": 83042200,
+        "forest": 114190,
+        "area": 348672,
+        "gdp": 3963880
+    },
+    "Iran": {
+        "country": "Iran",
+        "pollution": 876,
+        "population": 82859100,
+        "forest": 110750,
+        "area": 1531595,
+        "gdp": 484663
+    },
+    "Mexico": {
+        "country": "Mexico",
+        "pollution": 718,
+        "population": 126577691,
+        "forest": 710000,
+        "area": 1943945,
+        "gdp": 1241450
+    },
+    "Canada": {
+        "country": "Canada",
+        "pollution": 708,
+        "population": 37776700,
+        "forest": 4916438,
+        "area": 9093507,
+        "gdp": 1739110
+    },
+    "Saudi Arabia": {
+        "country": "Saudi Arabia",
+        "pollution": 676,
+        "population": 34218169,
+        "forest": 27000,
+        "area": 2149690,
+        "gdp": 762259
+    },
+    "Indonesia": {
+        "country": "Indonesia",
+        "pollution": 674,
+        "population": 266911900,
+        "forest": 884950,
+        "area": 1811569,
+        "gdp": 1100911
+    },
+    "Australia": {
+        "country": "Australia",
+        "pollution": 552,
+        "population": 25533000,
+        "forest": 1250000,
+        "area": 7633565,
+        "gdp": 1417003
+    },
+    "South Africa": {
+        "country": "South Africa",
+        "pollution": 531,
+        "population": 58775022,
+        "forest": 89170,
+        "area": 1214470,
+        "gdp": 371298
+    },
+    "Turkey": {
+        "country": "Turkey",
+        "pollution": 504,
+        "population": 82003882,
+        "forest": 216781,
+        "area": 769632,
+        "gdp": 706237
+    },
+    "United Kingdom": {
+        "country": "United Kingdom",
+        "pollution": 494,
+        "population": 66435600,
+        "forest": 28650,
+        "area": 241930,
+        "gdp": 2829163
+    },
+    "France": {
+        "country": "France",
+        "pollution": 468,
+        "population": 67055000,
+        "forest": 246640,
+        "area": 640427,
+        "gdp": 2761633
+    },
+    "Thailand": {
+        "country": "Thailand",
+        "pollution": 456,
+        "population": 66421567,
+        "forest": 147620,
+        "area": 510890,
+        "gdp": 516662
+    },
+    "Italy": {
+        "country": "Italy",
+        "pollution": 433,
+        "population": 60278616,
+        "forest": 106736,
+        "area": 294140,
+        "gdp": 2025866
+    },
+    "Pakistan": {
+        "country": "Pakistan",
+        "pollution": 426,
+        "population": 206316000,
+        "forest": 42240,
+        "area": 881912,
+        "gdp": 278019
+    },
+    "Poland": {
+        "country": "Poland",
+        "pollution": 400,
+        "population": 38386000,
+        "forest": 90000,
+        "area": 311888,
+        "gdp": 593295
+    },
+    "Malaysia": {
+        "country": "Malaysia",
+        "pollution": 371,
+        "population": 32628200,
+        "forest": 195200,
+        "area": 329613,
+        "gdp": 373447
+    },
+    "Vietnam": {
+        "country": "Vietnam",
+        "pollution": 358,
+        "population": 96208984,
+        "forest": 123000,
+        "area": 310070,
+        "gdp": 260301
+    },
+    "United Arab Emirates": {
+        "country": "United Arab Emirates",
+        "pollution": 347,
+        "population": 9770529,
+        "forest": 3120,
+        "area": 83600,
+        "gdp": 427876
+    },
+    "Ukraine": {
+        "country": "Ukraine",
+        "pollution": 341,
+        "population": 41990278,
+        "forest": 105000,
+        "area": 579300,
+        "gdp": 134887
+    },
+    "Argentina": {
+        "country": "Argentina",
+        "pollution": 334,
+        "population": 44938712,
+        "forest": 945336,
+        "area": 2736690,
+        "gdp": 477743
+    },
+    "Kazakhstan": {
+        "country": "Kazakhstan",
+        "pollution": 331,
+        "population": 18567904,
+        "forest": 54498,
+        "area": 2699700,
+        "gdp": 164207
+    },
+    "Spain": {
+        "country": "Spain",
+        "pollution": 329,
+        "population": 46934632,
+        "forest": 184180,
+        "area": 498980,
+        "gdp": 1429140
+    },
+    "Nigeria": {
+        "country": "Nigeria",
+        "pollution": 315,
+        "population": 200963599,
+        "forest": 110890,
+        "area": 910768,
+        "gdp": 444916
+    },
+    "Taiwan": {
+        "country": "Taiwan",
+        "pollution": 303,
+        "population": 23593794,
+        "forest": 21588,
+        "area": 32260,
+        "gdp": 601431
+    },
+    "Egypt": {
+        "country": "Egypt",
+        "pollution": 300,
+        "population": 99416400,
+        "forest": 670,
+        "area": 995450,
+        "gdp": 299589
+    },
+    "Venezuela": {
+        "country": "Venezuela",
+        "pollution": 265,
+        "population": 32219521,
+        "forest": 471378,
+        "area": 882050,
+        "gdp": 76458
+    },
+    "Iraq": {
+        "country": "Iraq",
+        "pollution": 259,
+        "population": 39127900,
+        "forest": 8220,
+        "area": 437367,
+        "gdp": 225257
+    },
+    "Uzbekistan": {
+        "country": "Uzbekistan",
+        "pollution": 234,
+        "population": 33771720,
+        "forest": 19690,
+        "area": 425400,
+        "gdp": 49199
+    },
+    "Algeria": {
+        "country": "Algeria",
+        "pollution": 230,
+        "population": 43378027,
+        "forest": 42000,
+        "area": 2381741,
+        "gdp": 183687
+    },
+    "Philippines": {
+        "country": "Philippines",
+        "pollution": 210,
+        "population": 108365000,
+        "forest": 71620,
+        "area": 298170,
+        "gdp": 356682
+    },
+    "Colombia": {
+        "country": "Colombia",
+        "pollution": 206,
+        "population": 48258494,
+        "forest": 607280,
+        "area": 1038700,
+        "gdp": 336599
+    },
+    "Qatar": {
+        "country": "Qatar",
+        "pollution": 204,
+        "population": 2747282,
+        "forest": 9,
+        "area": 11586,
+        "gdp": 193502
+    },
+    "Netherlands": {
+        "country": "Netherlands",
+        "pollution": 196,
+        "population": 17351200,
+        "forest": 3650,
+        "area": 33893,
+        "gdp": 914003
+    },
+    "Bangladesh": {
+        "country": "Bangladesh",
+        "pollution": 152,
+        "population": 167399000,
+        "forest": 8710,
+        "area": 130168,
+        "gdp": 314656
+    },
+    "Czech Republic": {
+        "country": "Czech Republic",
+        "pollution": 131,
+        "population": 10668641,
+        "forest": 26000,
+        "area": 77247,
+        "gdp": 246161
+    },
+    "Kuwait": {
+        "country": "Kuwait",
+        "pollution": 129,
+        "population": 4420110,
+        "forest": 60,
+        "area": 17818,
+        "gdp": 136940
+    },
+    "Ethiopia": {
+        "country": "Ethiopia",
+        "pollution": 126,
+        "population": 98665000,
+        "forest": 39313,
+        "area": 1000000,
+        "gdp": 90968
+    },
+    "Myanmar": {
+        "country": "Myanmar",
+        "pollution": 126,
+        "population": 54339766,
+        "forest": 430560,
+        "area": 653508,
+        "gdp": 65665
+    },
+    "Belgium": {
+        "country": "Belgium",
+        "pollution": 119,
+        "population": 11485729,
+        "forest": 6834,
+        "area": 30278,
+        "gdp": 531813
+    },
+    "Romania": {
+        "country": "Romania",
+        "pollution": 114,
+        "population": 19405156,
+        "forest": 69610,
+        "area": 231291,
+        "gdp": 244158
+    },
+    "Peru": {
+        "country": "Peru",
+        "pollution": 112,
+        "population": 32131400,
+        "forest": 687420,
+        "area": 1279996,
+        "gdp": 232080
+    },
+    "Chile": {
+        "country": "Chile",
+        "pollution": 110,
+        "population": 19107216,
+        "forest": 158781,
+        "area": 743812,
+        "gdp": 295614
+    },
+    "Morocco": {
+        "country": "Morocco",
+        "pollution": 110,
+        "population": 35689900,
+        "forest": 111325,
+        "area": 446300,
+        "gdp": 121350
+    },
+    "Sudan": {
+        "country": "Sudan",
+        "pollution": 106,
+        "population": 41937285,
+        "forest": 327909,
+        "area": 1886068,
+        "gdp": 31468
+    },
+    "Turkmenistan": {
+        "country": "Turkmenistan",
+        "pollution": 104,
+        "population": 5942089,
+        "forest": 41270,
+        "area": 469930,
+        "gdp": 50346
+    },
+    "Angola": {
+        "country": "Angola",
+        "pollution": 98.2,
+        "population": 30175553,
+        "forest": 591040,
+        "area": 1246700,
+        "gdp": 92191
+    },
+    "Belarus": {
+        "country": "Belarus",
+        "pollution": 97.7,
+        "population": 9456200,
+        "forest": 80334,
+        "area": 202900,
+        "gdp": 60951
+    },
+    "Oman": {
+        "country": "Oman",
+        "pollution": 97.3,
+        "population": 4670745,
+        "forest": 13050,
+        "area": 309500,
+        "gdp": 79458
+    },
+    "Singapore": {
+        "country": "Singapore",
+        "pollution": 94.5,
+        "population": 5703600,
+        "forest": 20,
+        "area": 687,
+        "gdp": 372807
+    },
+    "Tanzania": {
+        "country": "Tanzania",
+        "pollution": 92.2,
+        "population": 55890747,
+        "forest": 352570,
+        "area": 885800,
+        "gdp": 61032
+    },
+    "Greece": {
+        "country": "Greece",
+        "pollution": 92,
+        "population": 10741165,
+        "forest": 37520,
+        "area": 130647,
+        "gdp": 219097
+    },
+    "Bolivia": {
+        "country": "Bolivia",
+        "pollution": 88.7,
+        "population": 11469896,
+        "forest": 587400,
+        "area": 1083301,
+        "gdp": 43687
+    },
+    "Trinidad and Tobago": {
+        "country": "Trinidad and Tobago",
+        "pollution": 87.3,
+        "population": 1359193,
+        "forest": 2260,
+        "area": 5128,
+        "gdp": 22438
+    },
+    "Israel": {
+        "country": "Israel",
+        "pollution": 87.1,
+        "population": 9099990,
+        "forest": 1600,
+        "area": 20330,
+        "gdp": 381569
+    },
+    "Libya": {
+        "country": "Libya",
+        "pollution": 82.9,
+        "population": 6777452,
+        "forest": 2170,
+        "area": 1759540,
+        "gdp": 44964
+    },
+    "Austria": {
+        "country": "Austria",
+        "pollution": 80.1,
+        "population": 8877036,
+        "forest": 39600,
+        "area": 82445,
+        "gdp": 457637
+    },
+    "New Zealand": {
+        "country": "New Zealand",
+        "pollution": 79.3,
+        "population": 4936160,
+        "forest": 85424,
+        "area": 262443,
+        "gdp": 210475
+    },
+    "Serbia": {
+        "country": "Serbia",
+        "pollution": 75,
+        "population": 6963764,
+        "forest": 27200,
+        "area": 88246,
+        "gdp": 52424
+    },
+    "Kenya": {
+        "country": "Kenya",
+        "pollution": 73.7,
+        "population": 52573973,
+        "forest": 13200,
+        "area": 569140,
+        "gdp": 99246
+    },
+    "Azerbaijan": {
+        "country": "Azerbaijan",
+        "pollution": 68.8,
+        "population": 10027874,
+        "forest": 11400,
+        "area": 86100,
+        "gdp": 45248
+    },
+    "Portugal": {
+        "country": "Portugal",
+        "pollution": 68.5,
+        "population": 10276617,
+        "forest": 31820,
+        "area": 91470,
+        "gdp": 239473
+    },
+    "Ecuador": {
+        "country": "Ecuador",
+        "pollution": 65.6,
+        "population": 17339800,
+        "forest": 115510,
+        "area": 256369,
+        "gdp": 106289
+    },
+    "Ireland": {
+        "country": "Ireland",
+        "pollution": 62.6,
+        "population": 4921500,
+        "forest": 7540,
+        "area": 68883,
+        "gdp": 381571
+    },
+    "Hungary": {
+        "country": "Hungary",
+        "pollution": 61.9,
+        "population": 9772756,
+        "forest": 20990,
+        "area": 89608,
+        "gdp": 168778
+    },
+    "Syria": {
+        "country": "Syria",
+        "pollution": 60.5,
+        "population": 17070135,
+        "forest": 4610,
+        "area": 183630,
+        "gdp": 60043
+    },
+    "Finland": {
+        "country": "Finland",
+        "pollution": 59.5,
+        "population": 5524387,
+        "forest": 233320,
+        "area": 303815,
+        "gdp": 276572
+    },
+    "Bulgaria": {
+        "country": "Bulgaria",
+        "pollution": 59.4,
+        "population": 7000039,
+        "forest": 36250,
+        "area": 108612,
+        "gdp": 67044
+    },
+    "Sweden": {
+        "country": "Sweden",
+        "pollution": 55.6,
+        "population": 10302984,
+        "forest": 280730,
+        "area": 410335,
+        "gdp": 547123
+    },
+    "South Sudan": {
+        "country": "South Sudan",
+        "pollution": 55.2,
+        "population": 12778250,
+        "forest": 148196,
+        "area": 619745,
+        "gdp": 3151
+    },
+    "Paraguay": {
+        "country": "Paraguay",
+        "pollution": 54.8,
+        "population": 7152703,
+        "forest": 184750,
+        "area": 397302,
+        "gdp": 42352
+    },
+    "Norway": {
+        "country": "Norway",
+        "pollution": 54.2,
+        "population": 5345599,
+        "forest": 121120,
+        "area": 304282,
+        "gdp": 427041
+    },
+    "Yemen": {
+        "country": "Yemen",
+        "pollution": 52.3,
+        "population": 29161922,
+        "forest": 4490,
+        "area": 527968,
+        "gdp": 29079
+    },
+    "Denmark": {
+        "country": "Denmark",
+        "pollution": 51.8,
+        "population": 5814461,
+        "forest": 6120,
+        "area": 42434,
+        "gdp": 349524
+    },
+    "Switzerland": {
+        "country": "Switzerland",
+        "pollution": 48.2,
+        "population": 8570146,
+        "forest": 12540,
+        "area": 39997,
+        "gdp": 742000
+    },
+    "Uganda": {
+        "country": "Uganda",
+        "pollution": 47.2,
+        "population": 40006700,
+        "forest": 50000,
+        "area": 197100,
+        "gdp": 30368
+    },
+    "Mongolia": {
+        "country": "Mongolia",
+        "pollution": 44.5,
+        "population": 3282236,
+        "forest": 102520,
+        "area": 1553556,
+        "gdp": 13038
+    },
+    "Cameroon": {
+        "country": "Cameroon",
+        "pollution": 43.1,
+        "population": 24348251,
+        "forest": 212450,
+        "area": 472710,
+        "gdp": 39219
+    },
+    "Nepal": {
+        "country": "Nepal",
+        "pollution": 41.5,
+        "population": 29609623,
+        "forest": 36360,
+        "area": 143351,
+        "gdp": 28922
+    },
+    "Uruguay": {
+        "country": "Uruguay",
+        "pollution": 41.3,
+        "population": 3518552,
+        "forest": 7000,
+        "area": 175015,
+        "gdp": 60231
+    },
+    "Slovakia": {
+        "country": "Slovakia",
+        "pollution": 41.2,
+        "population": 5450017,
+        "forest": 20006,
+        "area": 48105,
+        "gdp": 109863
+    },
+    "Mali": {
+        "country": "Mali",
+        "pollution": 39.8,
+        "population": 19973000,
+        "forest": 125720,
+        "area": 1220190,
+        "gdp": 17833
+    },
+    "Mozambique": {
+        "country": "Mozambique",
+        "pollution": 39.6,
+        "population": 28571310,
+        "forest": 620000,
+        "area": 786380,
+        "gdp": 15372
+    },
+    "Tunisia": {
+        "country": "Tunisia",
+        "pollution": 37.6,
+        "population": 11551448,
+        "forest": 2601,
+        "area": 155360,
+        "gdp": 36204
+    },
+    "Zambia": {
+        "country": "Zambia",
+        "pollution": 36.6,
+        "population": 17381168,
+        "forest": 376309,
+        "area": 743398,
+        "gdp": 24615
+    },
+    "Cambodia": {
+        "country": "Cambodia",
+        "pollution": 34.8,
+        "population": 15288489,
+        "forest": 93350,
+        "area": 176515,
+        "gdp": 26979
+    },
+    "Afghanistan": {
+        "country": "Afghanistan",
+        "pollution": 34.5,
+        "population": 32225560,
+        "forest": 1631,
+        "area": 652230,
+        "gdp": 19990
+    },
+    "Guatemala": {
+        "country": "Guatemala",
+        "pollution": 34,
+        "population": 14901286,
+        "forest": 108894,
+        "area": 107159,
+        "gdp": 82335
+    },
+    "Madagascar": {
+        "country": "Madagascar",
+        "pollution": 34,
+        "population": 25680342,
+        "forest": 128380,
+        "area": 581540,
+        "gdp": 12734
+    },
+    "Sri Lanka": {
+        "country": "Sri Lanka",
+        "pollution": 33.5,
+        "population": 21803000,
+        "forest": 19330,
+        "area": 62732,
+        "gdp": 84164
+    },
+    "Burkina Faso": {
+        "country": "Burkina Faso",
+        "pollution": 33.2,
+        "population": 20870060,
+        "forest": 67940,
+        "area": 273602,
+        "gdp": 14882
+    },
+    "Bahrain": {
+        "country": "Bahrain",
+        "pollution": 32.7,
+        "population": 1543300,
+        "forest": 5,
+        "area": 778,
+        "gdp": 38952
+    },
+    "Ghana": {
+        "country": "Ghana",
+        "pollution": 30.5,
+        "population": 30280811,
+        "forest": 24600,
+        "area": 227533,
+        "gdp": 68258
+    },
+    "Dominican Republic": {
+        "country": "Dominican Republic",
+        "pollution": 30.2,
+        "population": 10358320,
+        "forest": 13384,
+        "area": 48320,
+        "gdp": 84837
+    },
+    "Chad": {
+        "country": "Chad",
+        "pollution": 29.6,
+        "population": 15692969,
+        "forest": 119210,
+        "area": 1259200,
+        "gdp": 11372
+    },
+    "Bosnia and Herzegovina": {
+        "country": "Bosnia and Herzegovina",
+        "pollution": 28.3,
+        "population": 3301000,
+        "forest": 25599,
+        "area": 51187,
+        "gdp": 20152
+    },
+    "Somalia": {
+        "country": "Somalia",
+        "pollution": 28.2,
+        "population": 15442905,
+        "forest": 71310,
+        "area": 627337,
+        "gdp": 7903
+    },
+    "Jordan": {
+        "country": "Jordan",
+        "pollution": 27.3,
+        "population": 10524100,
+        "forest": 893,
+        "area": 88802,
+        "gdp": 44256
+    },
+    "Niger": {
+        "country": "Niger",
+        "pollution": 26.2,
+        "population": 22314743,
+        "forest": 112000,
+        "area": 1266700,
+        "gdp": 9724
+    },
+    "Croatia": {
+        "country": "Croatia",
+        "pollution": 25.5,
+        "population": 4130304,
+        "forest": 24901,
+        "area": 55974,
+        "gdp": 61252
+    },
+    "Senegal": {
+        "country": "Senegal",
+        "pollution": 25.1,
+        "population": 16209125,
+        "forest": 86730,
+        "area": 192530,
+        "gdp": 25320
+    },
+    "Zimbabwe": {
+        "country": "Zimbabwe",
+        "pollution": 25.1,
+        "population": 15159624,
+        "forest": 259267,
+        "area": 386847,
+        "gdp": 22290
+    },
+    "Guinea": {
+        "country": "Guinea",
+        "pollution": 24.8,
+        "population": 12218357,
+        "forest": 67240,
+        "area": 245717,
+        "gdp": 12623
+    },
+    "Lebanon": {
+        "country": "Lebanon",
+        "pollution": 22.2,
+        "population": 6855713,
+        "forest": 1383,
+        "area": 10230,
+        "gdp": 58281
+    },
+    "Estonia": {
+        "country": "Estonia",
+        "pollution": 20.8,
+        "population": 1324820,
+        "forest": 23066,
+        "area": 42388,
+        "gdp": 31026
+    },
+    "Lithuania": {
+        "country": "Lithuania",
+        "pollution": 20.4,
+        "population": 2793722,
+        "forest": 21223,
+        "area": 62680,
+        "gdp": 54240
+    },
+    "Honduras": {
+        "country": "Honduras",
+        "pollution": 19.7,
+        "population": 9158345,
+        "forest": 67254,
+        "area": 111890,
+        "gdp": 24651
+    },
+    "Kyrgyzstan": {
+        "country": "Kyrgyzstan",
+        "pollution": 19.7,
+        "population": 6389500,
+        "forest": 8690,
+        "area": 191801,
+        "gdp": 8334
+    },
+    "Nicaragua": {
+        "country": "Nicaragua",
+        "pollution": 18.7,
+        "population": 6460411,
+        "forest": 51890,
+        "area": 119990,
+        "gdp": 12612
+    },
+    "Slovenia": {
+        "country": "Slovenia",
+        "pollution": 18.4,
+        "population": 2084301,
+        "forest": 12574,
+        "area": 20151,
+        "gdp": 55088
+    },
+    "Moldova": {
+        "country": "Moldova",
+        "pollution": 17.9,
+        "population": 2681735,
+        "forest": 3290,
+        "area": 32891,
+        "gdp": 12037
+    },
+    "Brunei": {
+        "country": "Brunei",
+        "pollution": 17.8,
+        "population": 442400,
+        "forest": 2780,
+        "area": 5265,
+        "gdp": 13325
+    },
+    "Georgia": {
+        "country": "Georgia",
+        "pollution": 17.5,
+        "population": 3723500,
+        "forest": 28577,
+        "area": 69700,
+        "gdp": 17214
+    },
+    "Costa Rica": {
+        "country": "Costa Rica",
+        "pollution": 17.1,
+        "population": 5058007,
+        "forest": 20440,
+        "area": 51060,
+        "gdp": 60459
+    },
+    "Papua New Guinea": {
+        "country": "Papua New Guinea",
+        "pollution": 17,
+        "population": 8558800,
+        "forest": 294370,
+        "area": 452860,
+        "gdp": 21453
+    },
+    "Botswana": {
+        "country": "Botswana",
+        "pollution": 16.9,
+        "population": 2338851,
+        "forest": 119430,
+        "area": 566730,
+        "gdp": 19651
+    },
+    "Haiti": {
+        "country": "Haiti",
+        "pollution": 15.9,
+        "population": 11577779,
+        "forest": 8300,
+        "area": 27560,
+        "gdp": 9602
+    },
+    "Benin": {
+        "country": "Benin",
+        "pollution": 15.8,
+        "population": 11733059,
+        "forest": 61860,
+        "area": 114305,
+        "gdp": 11184
+    },
+    "Panama": {
+        "country": "Panama",
+        "pollution": 15.8,
+        "population": 4218808,
+        "forest": 42940,
+        "area": 74340,
+        "gdp": 70155
+    },
+    "Equatorial Guinea": {
+        "country": "Equatorial Guinea",
+        "pollution": 13.5,
+        "population": 1358276,
+        "forest": 16320,
+        "area": 28051,
+        "gdp": 12432
+    },
+    "Laos": {
+        "country": "Laos",
+        "pollution": 13.5,
+        "population": 7123205,
+        "forest": 170000,
+        "area": 230800,
+        "gdp": 20153
+    },
+    "Togo": {
+        "country": "Togo",
+        "pollution": 13.2,
+        "population": 7538000,
+        "forest": 8000,
+        "area": 54385,
+        "gdp": 5592
+    },
+    "Namibia": {
+        "country": "Namibia",
+        "pollution": 13.1,
+        "population": 2458936,
+        "forest": 76610,
+        "area": 823290,
+        "gdp": 13824
+    },
+    "El Salvador": {
+        "country": "El Salvador",
+        "pollution": 12.4,
+        "population": 6704864,
+        "forest": 2980,
+        "area": 20721,
+        "gdp": 26989
+    },
+    "Tajikistan": {
+        "country": "Tajikistan",
+        "pollution": 12,
+        "population": 9127000,
+        "forest": 4100,
+        "area": 141510,
+        "gdp": 7698
+    },
+    "Latvia": {
+        "country": "Latvia",
+        "pollution": 11.8,
+        "population": 1911200,
+        "forest": 38755,
+        "area": 62249,
+        "gdp": 35721
+    },
+    "Malawi": {
+        "country": "Malawi",
+        "pollution": 11.8,
+        "population": 17563749,
+        "forest": 33176,
+        "area": 94080,
+        "gdp": 7436
+    },
+    "Armenia": {
+        "country": "Armenia",
+        "pollution": 11.5,
+        "population": 2961600,
+        "forest": 2974,
+        "area": 28342,
+        "gdp": 13105
+    },
+    "Central African Republic": {
+        "country": "Central African Republic",
+        "pollution": 10.6,
+        "population": 5496011,
+        "forest": 227550,
+        "area": 622984,
+        "gdp": 1997
+    },
+    "Gabon": {
+        "country": "Gabon",
+        "pollution": 10.6,
+        "population": 2172579,
+        "forest": 227517,
+        "area": 257667,
+        "gdp": 16709
+    },
+    "Jamaica": {
+        "country": "Jamaica",
+        "pollution": 10.3,
+        "population": 2726667,
+        "forest": 3308,
+        "area": 10831,
+        "gdp": 16152
+    },
+    "Luxembourg": {
+        "country": "Luxembourg",
+        "pollution": 10.1,
+        "population": 613894,
+        "forest": 870,
+        "area": 2586,
+        "gdp": 69634
+    },
+    "Mauritania": {
+        "country": "Mauritania",
+        "pollution": 10,
+        "population": 4077347,
+        "forest": 2670,
+        "area": 1025520,
+        "gdp": 5569
+    },
+    "Albania": {
+        "country": "Albania",
+        "pollution": 9.94,
+        "population": 2862427,
+        "forest": 7716,
+        "area": 27398,
+        "gdp": 15960
+    },
+    "Cyprus": {
+        "country": "Cyprus",
+        "pollution": 8.96,
+        "population": 864200,
+        "forest": 1740,
+        "area": 9241,
+        "gdp": 24638
+    },
+    "Mauritius": {
+        "country": "Mauritius",
+        "pollution": 8.26,
+        "population": 1265985,
+        "forest": 612,
+        "area": 2030,
+        "gdp": 14812
+    },
+    "Rwanda": {
+        "country": "Rwanda",
+        "pollution": 7.63,
+        "population": 12374397,
+        "forest": 3161,
+        "area": 24668,
+        "gdp": 10211
+    },
+    "Sierra Leone": {
+        "country": "Sierra Leone",
+        "pollution": 7.39,
+        "population": 7901454,
+        "forest": 27540,
+        "area": 71620,
+        "gdp": 3998
+    },
+    "Eritrea": {
+        "country": "Eritrea",
+        "pollution": 6.7,
+        "population": 3497117,
+        "forest": 15540,
+        "area": 101000,
+        "gdp": 7718
+    },
+    "Burundi": {
+        "country": "Burundi",
+        "pollution": 6.27,
+        "population": 10953317,
+        "forest": 1270,
+        "area": 25680,
+        "gdp": 3573
+    },
+    "Lesotho": {
+        "country": "Lesotho",
+        "pollution": 4.77,
+        "population": 2007201,
+        "forest": 80,
+        "area": 30355,
+        "gdp": 2392
+    },
+    "Iceland": {
+        "country": "Iceland",
+        "pollution": 4.68,
+        "population": 360390,
+        "forest": 1930,
+        "area": 100250,
+        "gdp": 24544
+    },
+    "Montenegro": {
+        "country": "Montenegro",
+        "pollution": 4.67,
+        "population": 622359,
+        "forest": 6252,
+        "area": 13452,
+        "gdp": 5443
+    },
+    "Guyana": {
+        "country": "Guyana",
+        "pollution": 3.83,
+        "population": 782766,
+        "forest": 151040,
+        "area": 196849,
+        "gdp": 3830
+    },
+    "Liberia": {
+        "country": "Liberia",
+        "pollution": 3.78,
+        "population": 4475353,
+        "forest": 31540,
+        "area": 96320,
+        "gdp": 3221
+    },
+    "Suriname": {
+        "country": "Suriname",
+        "pollution": 3.42,
+        "population": 581372,
+        "forest": 147760,
+        "area": 156000,
+        "gdp": 3683
+    },
+    "Fiji": {
+        "country": "Fiji",
+        "pollution": 2.89,
+        "population": 884887,
+        "forest": 10000,
+        "area": 18274,
+        "gdp": 5324
+    },
+    "Bhutan": {
+        "country": "Bhutan",
+        "pollution": 2.33,
+        "population": 741672,
+        "forest": 24764,
+        "area": 38394,
+        "gdp": 2811
+    },
+    "Djibouti": {
+        "country": "Djibouti",
+        "pollution": 1.98,
+        "population": 1078373,
+        "forest": 60,
+        "area": 23180,
+        "gdp": 2285
+    },
+    "Malta": {
+        "country": "Malta",
+        "pollution": 1.97,
+        "population": 493559,
+        "forest": 3,
+        "area": 316,
+        "gdp": 15134
+    },
+    "Barbados": {
+        "country": "Barbados",
+        "pollution": 1.52,
+        "population": 287025,
+        "forest": 20,
+        "area": 431,
+        "gdp": 5207
+    },
+    "Maldives": {
+        "country": "Maldives",
+        "pollution": 1.4,
+        "population": 374775,
+        "forest": 10,
+        "area": 298,
+        "gdp": 5749
+    },
+    "Belize": {
+        "country": "Belize",
+        "pollution": 1.21,
+        "population": 408487,
+        "forest": 16530,
+        "area": 22806,
+        "gdp": 1971
+    },
+    "Vanuatu": {
+        "country": "Vanuatu",
+        "pollution": 0.75,
+        "population": 304500,
+        "forest": 4470,
+        "area": 12189,
+        "gdp": 942
+    },
+    "Antigua and Barbuda": {
+        "country": "Antigua and Barbuda",
+        "pollution": 0.71,
+        "population": 96453,
+        "forest": 90,
+        "area": 443,
+        "gdp": 1654
+    },
+    "Comoros": {
+        "country": "Comoros",
+        "pollution": 0.7,
+        "population": 873724,
+        "forest": 50,
+        "area": 1862,
+        "gdp": 726
+    },
+    "Seychelles": {
+        "country": "Seychelles",
+        "pollution": 0.56,
+        "population": 97625,
+        "forest": 407,
+        "area": 455,
+        "gdp": 1620
+    },
+    "Samoa": {
+        "country": "Samoa",
+        "pollution": 0.54,
+        "population": 200874,
+        "forest": 1050,
+        "area": 2821,
+        "gdp": 902
+    },
+    "Solomon Islands": {
+        "country": "Solomon Islands",
+        "pollution": 0.46,
+        "population": 680806,
+        "forest": 23117,
+        "area": 27986,
+        "gdp": 1511
+    },
+    "Grenada": {
+        "country": "Grenada",
+        "pollution": 0.34,
+        "population": 112003,
+        "forest": 40,
+        "area": 344,
+        "gdp": 1272
+    },
+    "Palau": {
+        "country": "Palau",
+        "pollution": 0.33,
+        "population": 17900,
+        "forest": 400,
+        "area": 459,
+        "gdp": 310
+    },
+    "Tonga": {
+        "country": "Tonga",
+        "pollution": 0.26,
+        "population": 100651,
+        "forest": 40,
+        "area": 717,
+        "gdp": 493
+    },
+    "Dominica": {
+        "country": "Dominica",
+        "pollution": 0.23,
+        "population": 71808,
+        "forest": 488,
+        "area": 751,
+        "gdp": 542
+    },
+    "San Marino": {
+        "country": "San Marino",
+        "pollution": 0.22,
+        "population": 33524,
+        "forest": 1,
+        "area": 61,
+        "gdp": 1538
+    },
+    "Kiribati": {
+        "country": "Kiribati",
+        "pollution": 0.14,
+        "population": 120100,
+        "forest": 20,
+        "area": 811,
+        "gdp": 187
+    },
+    "Tuvalu": {
+        "country": "Tuvalu",
+        "pollution": 0.03,
+        "population": 10200,
+        "forest": 23,
+        "area": 26,
+        "gdp": 49
+    }
+}
