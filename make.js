@@ -45,3 +45,37 @@ for (let country in data) {
 }
 
 FS.writeFileSync('data.more.json', JSON.stringify(data,0,4));
+
+
+
+
+const prettyNumber = { Infinity: '&infin;', NaN: '-' }
+const n3 = (x, i) => (i % 3 == 2 ? '\u202F' + x : x)
+const formatNumber = n => prettyNumber[n] ? prettyNumber[n] : (n + '').split('.').map((x, i) => i == 0 ? x.split('').reverse().map(n3).reverse().join('') : x.split('').map(n3).join('')).join('.');
+
+const hsl = h => `background: hsl(${h},100%,50%);`;
+// <td type='float'>${data.po_fo}</td>
+// <td type='int'>${data.gdp_dens}</td> 
+const row = data => `<tr> 
+            <td type='rank'></td>
+            <td type='string'>${data.country}</td>  
+
+            <td type='int'>${formatNumber(data.pollution_M)}</td> 
+            <td type='int'>${formatNumber(data.forest_K)}</td> 
+            <td type='int'>${formatNumber(data.pop_M)}</td> 
+            <td type='int'>${formatNumber(data.gdp_G)}</td> 
+            <td type='int'>${formatNumber(data.area_K)}</td> 
+
+            <td type='int' sort='${data.pollutionPerForest}' style='${hsl(120 - (data.pollutionPerForest > 1400 ? 140 : (data.pollutionPerForest / 12)))}'>${formatNumber(data.pollutionPerForest)}</td> 
+            <td type='int' sort='${data.pollutionPerDollar}' style='${hsl(120 - (data.pollutionPerDollar > 1400 ? 140 : (data.pollutionPerDollar / 12)))}'>${formatNumber(data.pollutionPerDollar)}</td> 
+            <td type='int' sort='${data.pollutionPerPerson}' style='${hsl(120 - (data.pollutionPerPerson > 14 ? 140 : (data.po_pe * 9)))}'>${formatNumber(data.pollutionPerPerson)}</td> 
+
+            <td type='int' style='${hsl(120 - (data.populationDensity > 150 ? 150 : (data.populationDensity * 1)))}'>${data.populationDensity}</td> 
+            <td type='int' style='${hsl((data.gdpPerPerson > 20000 ? 100 : (data.gdpPerPerson / 200)))}' sort='${data.gdpPerPerson}'>${formatNumber(data.gdpPerPerson)}&#8239;$</td> 
+            <td type='int' style='${hsl(data.forestDensity * 1.2)}'>${data.forestDensity}&#8239;%</td> 
+            <td type='int' style='background:${data.duePayment<0?'red':'green'}'>${formatNumber(data.duePayment)}</td> 
+        </tr>`;
+
+let html = '<table>' + Object.values(data).map(row).join('\n')+'</table>';
+FS.writeFileSync('index.html', html);
+
